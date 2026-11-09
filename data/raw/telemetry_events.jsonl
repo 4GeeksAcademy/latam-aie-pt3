@@ -1,0 +1,21 @@
+{"event_id": "evt-0000", "user_id": "user_7", "timestamp": "2025-01-01T00:00:00+00:00", "event_type": "page_view", "revenue": 0.0}
+{"event_id": "evt-0001", "user_id": "user_1", "timestamp": "2025-01-01T01:00:00+00:00", "event_type": "login", "revenue": 0.0}
+{"event_id": "evt-0002", "user_id": "user_4", "timestamp": "2025-01-01T02:00:00+00:00", "event_type": "purchase", "revenue": 179.56}
+{"event_id": "evt-0003", "user_id": "user_10", "timestamp": "2025-01-01T03:00:00+00:00", "event_type": "login", "revenue": 0.0, "_corrupt": true}
+{"event_id": "evt-0004", "user_id": "user_10", "timestamp": "2025-01-01T04:00:00+00:00", "event_type": "page_view", "revenue": 0.0}
+{"event_id": "evt-0005", "user_id": "user_6", "timestamp": "2025-01-01T05:00:00+00:00", "event_type": "logout", "revenue": 0.0}
+{"event_id": "evt-0006", "user_id": "user_6", "timestamp": "2025-01-01T06:00:00+00:00", "event_type": "login", "revenue": 0.0}
+{"event_id": "evt-0007", "user_id": "user_7", "timestamp": "2025-01-01T07:00:00+00:00", "event_type": "logout", "revenue": 0.0}
+{"event_id": "evt-0008", "user_id": "user_4", "timestamp": "2025-01-01T08:00:00+00:00", "event_type": "page_view", "revenue": 0.0}
+{"event_id": "evt-0009", "user_id": "user_4", "timestamp": "2025-01-01T09:00:00+00:00", "event_type": "purchase", "revenue": 126.45}
+{"event_id": "evt-0010", "user_id": "user_10", "timestamp": "2025-01-01T10:00:00+00:00", "event_type": "page_view", "revenue": 0.0}
+{"event_id": "evt-0011", "user_id": "user_3", "timestamp": "2025-01-01T11:00:00+00:00", "event_type": "login", "revenue": 0.0}
+{"event_id": "evt-0012", "user_id": "user_8", "timestamp": "2025-01-01T12:00:00+00:00", "event_type": "page_view", "revenue": 0.0}
+{"event_id": "evt-0013", "user_id": "user_10", "timestamp": "2025-01-01T13:00:00+00:00", "event_type": "logout", "revenue": 0.0}
+{"event_id": "evt-0014", "user_id": "user_6", "timestamp": "2025-01-01T14:00:00+00:00", "event_type": "purchase", "revenue": 170.73}
+{"event_id": "evt-0015", "user_id": "user_3", "timestamp": "2025-01-01T15:00:00+00:00", "event_type": "page_view", "revenue": 0.0}
+{"event_id": "evt-0016", "user_id": "user_2", "timestamp": "2025-01-01T16:00:00+00:00", "event_type": "page_view", "revenue": 0.0}
+{"event_id": "evt-0017", "user_id": "user_5", "timestamp": "2025-01-01T17:00:00+00:00", "event_type": "error", "revenue": 0.0, "_corrupt": true}
+{"event_id": "evt-0018", "user_id": "user_3", "timestamp": "2025-01-01T18:00:00+00:00", "event_type": "purchase", "revenue": 30.03}
+{"event_id": "evt-0019", "user_id": "user_9", "timestamp": "2025-01-01T19:00:00+00:00", "event_type": "logout", "revenue": 0.0}
+{"event_id": "evt-0020", "user_id": "user_1", "timestamp": "2025-01-01T20:00:00+00:00", "event_type": "page_view", "revenue": 0.0}

@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+data/pipelines/pipeline.py
+etl_pipeline_prefect.egg-info/PKG-INFO
+etl_pipeline_prefect.egg-info/SOURCES.txt
+etl_pipeline_prefect.egg-info/dependency_links.txt
+etl_pipeline_prefect.egg-info/requires.txt
+etl_pipeline_prefect.egg-info/top_level.txt

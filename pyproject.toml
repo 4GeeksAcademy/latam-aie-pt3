@@ -1,0 +1,15 @@
+[project]
+name = "etl-pipeline-prefect"
+version = "1.0.0"
+description = "Pipeline ETL resiliente, modular e independiente con Prefect 3, SQLite y uv"
+requires-python = ">=3.11"
+dependencies = [
+    "prefect>=3.0,<4.0",
+]
+
+[dependency-groups]
+dev = []
+
+[build-system]
+requires = ["setuptools>=75.0"]
+build-backend = "setuptools.build_meta"

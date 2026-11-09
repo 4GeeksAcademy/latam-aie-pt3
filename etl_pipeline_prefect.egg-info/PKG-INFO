@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: etl-pipeline-prefect
+Version: 1.0.0
+Summary: Pipeline ETL resiliente, modular e independiente con Prefect 3, SQLite y uv
+Requires-Python: >=3.11
+Requires-Dist: prefect<4.0,>=3.0
