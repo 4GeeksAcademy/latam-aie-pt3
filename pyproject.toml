@@ -8,7 +8,9 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = []
+dev = [
+    "pytest>=9.2.0",
+]
 
 [build-system]
 requires = ["setuptools>=75.0"]

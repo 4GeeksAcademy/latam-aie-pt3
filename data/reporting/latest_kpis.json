@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-09T22:27:48.689046+00:00",
-  "total_events": 19,
-  "unique_users": 9,
-  "purchase_events": 4,
-  "total_revenue": 506.77,
-  "conversion_rate": 0.2105,
+  "timestamp": "2026-11-12T03:14:59.999353+00:00",
+  "total_events": 47,
+  "unique_users": 14,
+  "purchase_events": 8,
+  "total_revenue": 2329.11,
+  "conversion_rate": 0.1702,
   "error_rate": 0.0
 }

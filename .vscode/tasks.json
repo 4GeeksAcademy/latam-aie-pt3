@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Test pipeline principal",
+			"type": "shell",
+			"command": "uv",
+			"args": [
+				"run",
+				"python",
+				"data/pipelines/pipeline.py"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
